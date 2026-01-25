@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ng196/DSA/tree/master/0283-move-zeroes) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/ng196/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ng196/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/ng196/DSA/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ng196/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
