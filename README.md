@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ng196/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/ng196/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/ng196/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/ng196/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
