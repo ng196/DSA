@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ng196/DSA/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/ng196/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/ng196/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ng196/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ng196/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ng196/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ng196/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
