@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ng196/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/ng196/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ng196/DSA/tree/master/0735-asteroid-collision) |
+| [1386-cinema-seat-allocation](https://github.com/ng196/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ng196/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/ng196/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ng196/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ng196/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ng196/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ng196/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/ng196/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Prefix Sum
 |  |
@@ -58,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ng196/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ng196/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
